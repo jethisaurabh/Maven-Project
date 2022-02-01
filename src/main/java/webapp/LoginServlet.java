@@ -37,10 +37,10 @@ public class LoginServlet extends HttpServlet {
 		PrintWriter out = response.getWriter();
 		out.println("<html>");
 		out.println("<head>");
-		out.println("<title>Techlanders Solutions</title>");
+		out.println("<title>Saurabh Jethi</title>");
 		out.println("</head>");
 		out.println("<body>");
-		out.println("<h1> Welcome to DevOps Workshop Vodafone - Version 2 </h1>");
+		out.println("<h1> Welcome to DevOps Workshop Dell - Version 1 </h1>");
 		out.println("</body>");
 		out.println("</html>");
 
